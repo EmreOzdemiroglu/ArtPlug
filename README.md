@@ -21,10 +21,13 @@ ArtPlug draws inspiration from:
 **Interface is kinda janky, but I'll fix it.**
 
 - **CreateView**
+
 ![image](https://github.com/user-attachments/assets/23b544f2-e216-4fb1-ab90-8e02b91ce789)
 
 - **RewriteView**
+
 ![image](https://github.com/user-attachments/assets/e51b02e1-90eb-4945-b67c-f119088227a8)
+
 ![image](https://github.com/user-attachments/assets/6f5296a8-9933-433a-9b6b-b9307d8f9ac5)
 
 
