@@ -16,12 +16,32 @@ ArtPlug draws inspiration from:
 - **Jordan Peterson's Self-Authoring Guide**: The Create View incorporates concepts from this guide, encouraging structured and reflective writing.
 - **Essay.app**: The Rewrite View is influenced by Essay.app's approach to sentence refinement and content improvement.
 
-## Installation
+## Images
+
+**Interface is kinda janky, but I'll fix it.**
+
+- **CreateView**
+![image](https://github.com/user-attachments/assets/23b544f2-e216-4fb1-ab90-8e02b91ce789)
+
+- **RewriteView**
+![image](https://github.com/user-attachments/assets/e51b02e1-90eb-4945-b67c-f119088227a8)
+![image](https://github.com/user-attachments/assets/6f5296a8-9933-433a-9b6b-b9307d8f9ac5)
+
+
+- **ReorderView**
+
+![image](https://github.com/user-attachments/assets/de21544c-122a-4fc4-9a2c-890cdfbb5931)
+
+
+
+## Installation (Store way - NOT READY)
 
 1. Open Obsidian and go to Settings.
 2. Navigate to Community Plugins and disable Safe Mode.
 3. Click on Browse and search for "ArtPlug".
 4. Install the plugin and enable it.
+
+## Manual installation through the .obsidian plugins folder, npm i and npm run build.
 
 ## Usage
 
