@@ -1,0 +1,11 @@
+{
+	"id": "artplug",
+	"name": "ArtPlug",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin to manage and style headers in Obsidian.",
+	"author": "Your Name",
+	"authorUrl": "https://yourwebsite.com",
+	"fundingUrl": "https://yourfundingpage.com",
+	"isDesktopOnly": false
+}
